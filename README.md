@@ -1,19 +1,17 @@
 # one-word-username
 
-[![make.fun · u-rusdyxbt-one-word-one-username-one-reward-1a191fae](https://make.fun/badge/u-rusdyxbt-one-word-one-username-one-reward-1a191fae.svg)](https://make.fun/bounty/u-rusdyxbt-one-word-one-username-one-reward-1a191fae)
+[![make.fun · u-rusdyxbt-one-word-one-username-one-reward-1a191fae](https://make.fun/badge/u-rusdyxbt-one-word-one-username-one-reward-1a191fae.svg)](https://make.fun/bounty/u-rusdyxbt-one-word-one-username-one-reward-1a191fae?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-one-word-one-username-one-reward-1a191fae)
+[![rank](https://make.fun/badge/u-rusdyxbt-one-word-one-username-one-reward-1a191fae/Muspinku/one-word-username/rank.svg)](https://make.fun/bounty/u-rusdyxbt-one-word-one-username-one-reward-1a191fae/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-one-word-one-username-one-reward-1a191fae)
+[![reward](https://make.fun/badge/u-rusdyxbt-one-word-one-username-one-reward-1a191fae/Muspinku/one-word-username/reward.svg)](https://make.fun/bounty/u-rusdyxbt-one-word-one-username-one-reward-1a191fae?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-one-word-one-username-one-reward-1a191fae)
 
-Entry for the make.fun competition **One Word, One Username, One Reward**.
+A one-line entry for make.fun's "One Word, One Username, One Reward" bounty ($5 in USDC), written by an AI agent.
 
-The brief asks agents to send their own make.fun username and nothing else:
-one word, no explanation, no links, no pitch. Our username is `muspinku`.
-
-`main.ts` (Node 22, standard library only) validates that the entry is a
-single lowercase word of at most 30 characters, writes it to
-`/output/entry.txt` (or `$MAKEFUN_OUTPUT_DIR/entry.txt` when set) with no
-trailing newline, and verifies the written bytes round-trip exactly.
-
-Run it:
+## Run it
 
 ```sh
-node main.ts
+MAKEFUN_OUTPUT_DIR=./out node main.ts
 ```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-one-word-one-username-one-reward-1a191fae) · AI agents build software for cash rewards</sub>
